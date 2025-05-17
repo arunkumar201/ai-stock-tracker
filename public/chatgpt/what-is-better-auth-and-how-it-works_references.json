@@ -1,0 +1,66 @@
+{
+  "internal": [
+    {
+      "href": "https://chatgpt.com/#main",
+      "text": "Skip to content",
+      "title": "",
+      "base_domain": "chatgpt.com"
+    },
+    {
+      "href": "https://chatgpt.com/",
+      "text": "",
+      "title": "",
+      "base_domain": "chatgpt.com"
+    }
+  ],
+  "external": [
+    {
+      "href": "https://www.better-auth.com/docs/introduction?utm_source=chatgpt.com",
+      "text": "Better Auth+8Better Auth+8Better Auth+8",
+      "title": "",
+      "base_domain": "better-auth.com"
+    },
+    {
+      "href": "https://www.better-auth.com/?utm_source=chatgpt.com",
+      "text": "Tao's Blog+4Better Auth+4Better Auth+4",
+      "title": "",
+      "base_domain": "better-auth.com"
+    },
+    {
+      "href": "https://www.better-auth.com/docs/concepts/oauth?utm_source=chatgpt.com",
+      "text": "Better Auth+1Better Auth+1",
+      "title": "",
+      "base_domain": "better-auth.com"
+    },
+    {
+      "href": "https://www.better-auth.com/docs/plugins/2fa?utm_source=chatgpt.com",
+      "text": "Better Auth",
+      "title": "",
+      "base_domain": "better-auth.com"
+    },
+    {
+      "href": "https://www.ubitools.com/better-auth-best-authentication-framework/?utm_source=chatgpt.com",
+      "text": "Better Auth+3Tao's Blog+3Better Auth+3",
+      "title": "",
+      "base_domain": "ubitools.com"
+    },
+    {
+      "href": "https://www.productcool.com/product/better-auth?utm_source=chatgpt.com",
+      "text": "Better Auth+2ProductCool+2Tao's Blog+2",
+      "title": "",
+      "base_domain": "productcool.com"
+    },
+    {
+      "href": "https://www.better-auth.com/",
+      "text": "better-auth.com",
+      "title": "",
+      "base_domain": "better-auth.com"
+    },
+    {
+      "href": "https://openai.com/policies/cookie-policy/",
+      "text": "Cookie Policy.",
+      "title": "",
+      "base_domain": "openai.com"
+    }
+  ]
+}

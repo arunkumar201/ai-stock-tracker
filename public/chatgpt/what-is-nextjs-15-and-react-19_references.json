@@ -1,0 +1,96 @@
+{
+  "internal": [
+    {
+      "href": "https://chatgpt.com/#main",
+      "text": "Skip to content",
+      "title": "",
+      "base_domain": "chatgpt.com"
+    },
+    {
+      "href": "https://chatgpt.com/",
+      "text": "",
+      "title": "",
+      "base_domain": "chatgpt.com"
+    }
+  ],
+  "external": [
+    {
+      "href": "https://dev.to/helloworldttj/nextjs-15-is-here-exploring-the-new-features-5bp3?utm_source=chatgpt.com",
+      "text": "DEV Community+1Next.js 15+1",
+      "title": "",
+      "base_domain": "dev.to"
+    },
+    {
+      "href": "https://aurelza.com/next-js-15-unveiling-the-latest-features-and-enhancements/?utm_source=chatgpt.com",
+      "text": "Next.js 15+3aurelza.com+3DEV Community+3",
+      "title": "",
+      "base_domain": "aurelza.com"
+    },
+    {
+      "href": "https://dev.to/shaahzaibrehman/whats-new-in-nextjs-15-a-developers-guide-to-the-latest-features-154p?utm_source=chatgpt.com",
+      "text": "DEV Community+2DEV Community+2Medium+2",
+      "title": "",
+      "base_domain": "dev.to"
+    },
+    {
+      "href": "https://www.nextjs15.com/?utm_source=chatgpt.com",
+      "text": "DEV Community+2Next.js 15+2DEV Community+2",
+      "title": "",
+      "base_domain": "nextjs15.com"
+    },
+    {
+      "href": "https://dev.to/dct_technology/nextjs-15-features-you-should-know-in-2025-277k?utm_source=chatgpt.com",
+      "text": "DEV Community+1Next.js 15+1",
+      "title": "",
+      "base_domain": "dev.to"
+    },
+    {
+      "href": "https://nextjs.org/blog/next-15-1?utm_source=chatgpt.com",
+      "text": "Next.js",
+      "title": "",
+      "base_domain": "nextjs.org"
+    },
+    {
+      "href": "https://medium.com/%40onix_react/what-to-expect-from-react-19-e033899f919f?utm_source=chatgpt.com",
+      "text": "Medium+1DEV Community+1",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://www.freecodecamp.org/news/new-react-19-features-you-should-know-with-code-examples/?utm_source=chatgpt.com",
+      "text": "DEV Community+3FreeCodeCamp+3aurelza.com+3",
+      "title": "",
+      "base_domain": "freecodecamp.org"
+    },
+    {
+      "href": "https://19.react.dev/blog/2024/04/25/react-19?utm_source=chatgpt.com",
+      "text": "19.react.dev",
+      "title": "",
+      "base_domain": "react.dev"
+    },
+    {
+      "href": "https://vercel.com/blog/whats-new-in-react-19?utm_source=chatgpt.com",
+      "text": "Vercel",
+      "title": "",
+      "base_domain": "vercel.com"
+    },
+    {
+      "href": "https://mrohitsingh.medium.com/next-js-15-key-features-and-updates-b785326c106b?utm_source=chatgpt.com",
+      "text": "MediumNext.js 15: Key Features and Updates | by Rohit Singh | MediumNEXT.JS 15: KEY FEATURES AND UPDATES  Rohit Singh  Follow  5 min readDec 18, 2024  --  1  Listen  Share  Next.js 15 is finally here, and it\u2019s packed with exciting features that will transform your web...",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://www.moerman.dev/blog/nextjs-15-stable-release?utm_source=chatgpt.com",
+      "text": "Stephan MoermanNext.js 15: Top 10 New Features You Need to Know About | Stephan MoermanNEXT.JS 15 IS HERE! 10 MUST-HAVE FEATURES YOU CAN'T MISS  Written by  Stephan Moerman  Published on  Views  Reading time  13 min read  A long-awaited update has landed! OnOctober 21st 2024, Vercel fin...",
+      "title": "",
+      "base_domain": "moerman.dev"
+    },
+    {
+      "href": "https://openai.com/policies/cookie-policy/",
+      "text": "Cookie Policy.",
+      "title": "",
+      "base_domain": "openai.com"
+    }
+  ]
+}
