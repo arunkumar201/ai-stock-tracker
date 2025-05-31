@@ -4,4 +4,18 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+	"crawl4ai",  # For web crawling functionality
+	"asyncio",   # For asynchronous operations
+	"aiohttp",   # Required for async HTTP requests (commonly used with crawl4ai)
+	"beautifulsoup4",  # For HTML parsing
+	"python-dotenv"   # For environment variable management
+]
+
+[project.optional-dependencies.dev]
+pytest = "*"
+pytest-asyncio = "*"
+black = "*"
+isort = "*"
+mypy = "*"
+pylint = "*"
