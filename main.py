@@ -1,7 +1,7 @@
 import asyncio
 from crawl4ai import AsyncWebCrawler, BrowserConfig, CrawlerRunConfig
 
-from crawler.wikipedia import wikipedia_crawler
+from src.crawler.wikipedia import wikipedia_crawler
 from src.crawler.chatgpt_crawler import chatgpt_crawler
 from src.constants.index import CRAWL4AI_DOC_BASE_URL
 from src.configs.browser import base_browser_config
