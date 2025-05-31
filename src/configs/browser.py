@@ -4,7 +4,7 @@ import os
 ENV_TYPE = os.getenv("ENV_TYPE") or "development"
 
 base_browser_config = BrowserConfig(
-    headless=False,  # Set to True for headless mode
+    headless=True,  # Set to True for headless mode
     viewport_height=1080,
     viewport_width=1920,
    use_managed_browser=False,  # Use real browser instead of managed browser
