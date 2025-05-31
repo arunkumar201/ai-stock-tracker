@@ -20,5 +20,5 @@ async def main():
 
 if __name__ == "__main__":
     # asyncio.run(main())
-    asyncio.run(chatgpt_crawler(base_browser_config, "what is better-auth and how it works"))
+    asyncio.run(chatgpt_crawler(base_browser_config, "Latest new on indian stock market"))
     # asyncio.run(wikipedia_crawler())

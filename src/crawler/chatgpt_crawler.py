@@ -45,7 +45,7 @@ async def chatgpt_crawler(
     
     run_config = CrawlerRunConfig(
         cache_mode=CacheMode.BYPASS,
-        wait_for="css:[data-testid*='conversation-turn-'], .markdown",
+    wait_for="css:[data-testid*='conversation-turn-'], .markdown, div[class*='flex flex-col px-3 py-2']",
         delay_before_return_html=wait_seconds,
         magic=True,
         adjust_viewport_to_content=True,
@@ -60,7 +60,7 @@ async def chatgpt_crawler(
         screenshot=True,
         user_agent_mode="random",
         prettiify=True,
-        markdown_generator=get_markdown_generator(prompt)
+        markdown_generator=get_markdown_generator(prompt),
     )
     
     # Run the crawler

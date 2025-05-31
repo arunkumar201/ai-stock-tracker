@@ -1,0 +1,72 @@
+{
+  "internal": [
+    {
+      "href": "https://chatgpt.com/#main",
+      "text": "Skip to content",
+      "title": "",
+      "base_domain": "chatgpt.com"
+    },
+    {
+      "href": "https://chatgpt.com/",
+      "text": "",
+      "title": "",
+      "base_domain": "chatgpt.com"
+    }
+  ],
+  "external": [
+    {
+      "href": "https://economictimes.indiatimes.com/topic/indian-market--sensex-nifty?utm_source=chatgpt.com",
+      "text": "Moneycontrol+4The Economic Times+4mint+4",
+      "title": "",
+      "base_domain": "indiatimes.com"
+    },
+    {
+      "href": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-lower-10-key-highlights-from-indian-stock-market-today-11748599068888.html?utm_source=chatgpt.com",
+      "text": "Business Standard+3mint+3Business Standard+3",
+      "title": "",
+      "base_domain": "livemint.com"
+    },
+    {
+      "href": "https://www.moneycontrol.com/news/opinion/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-30-05-2025-liveblog-13067813.html?utm_source=chatgpt.com",
+      "text": "Moneycontrol",
+      "title": "",
+      "base_domain": "moneycontrol.com"
+    },
+    {
+      "href": "https://en.wikipedia.org/wiki/Stock_market_crashes_in_India?utm_source=chatgpt.com",
+      "text": "Wikipedia",
+      "title": "",
+      "base_domain": "wikipedia.org"
+    },
+    {
+      "href": "https://www.business-standard.com/markets/news/sensex-down-182-nifty-at-24-751-as-us-tariffs-keep-investors-cautious-125053001016_1.html?utm_source=chatgpt.com",
+      "text": "Business Standard+1The Economic Times+1",
+      "title": "",
+      "base_domain": "business-standard.com"
+    },
+    {
+      "href": "https://www.tradingview.com/news/moneycontrol%3Aa718eb908094b%3A0-sensex-nifty-start-june-series-on-a-weak-note-as-it-drags-tariff-concerns-weigh/?utm_source=chatgpt.com",
+      "text": "TradingView",
+      "title": "",
+      "base_domain": "tradingview.com"
+    },
+    {
+      "href": "https://www.moneycontrol.com",
+      "text": "Moneycontrol",
+      "title": "",
+      "base_domain": "moneycontrol.com"
+    },
+    {
+      "href": "https://www.business-standard.com",
+      "text": "Business Standard",
+      "title": "",
+      "base_domain": "business-standard.com"
+    },
+    {
+      "href": "https://openai.com/policies/cookie-policy/",
+      "text": "Cookie Policy.",
+      "title": "",
+      "base_domain": "openai.com"
+    }
+  ]
+}
